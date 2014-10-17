@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gun:home|Door43 (gun)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gun|d43-gun repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gun/archive/master.zip|d43-gun.zip]]
+
+**Recent Changes**
+{{changes>ns = gun}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gun|Ethnologue data]]
+
